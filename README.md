@@ -1,2 +1,3 @@
-# bluelooper-support
-Support page for BlueLooper app
+# BlueLooper Support
+
+For support, please contact: sambuichi@gmail.com
